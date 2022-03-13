@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm dendi as flutter developer👋
 
 <!--
 **dendimuhmd/dendimuhmd** is a ✨ flutter developer ✨ repository because its `README.md` (this file) appears on your GitHub profile.
