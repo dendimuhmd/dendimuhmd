@@ -1,5 +1,5 @@
 ### Hi there I'm dendi as flutter developer👋
-### am a Fulltime a dreamer & lifetime a learner!  
+### am a Fulltime dreamer & lifetime a learner!  
 
 <!--
 **dendimuhmd/dendimuhmd** is a ✨ flutter developer ✨ repository because its `README.md` (this file) appears on your GitHub profile.
