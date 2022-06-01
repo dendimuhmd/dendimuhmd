@@ -1,4 +1,4 @@
-### Hi there I'm dendi as flutter developer👋
+### Hi there I'm dendi as flutter enthusisast👋
 ### am a Fulltime dreamer & lifetime a learner!  
 
 <!--
